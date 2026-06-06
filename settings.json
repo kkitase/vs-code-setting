@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontFamily": "'Cascadia Mono', Consolas, 'Fira Code', 'BIZ UDGothic', 'Noto Sans Mono CJK JP', monospace",
+    "terminal.integrated.letterSpacing": 1.2,
+    "terminal.integrated.lineHeight": 1.3
+}
