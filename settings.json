@@ -1,6 +1,23 @@
 {
+    // ===== Terminal =====
     "terminal.integrated.fontSize": 14,
-    "terminal.integrated.fontFamily": "'Cascadia Mono', Consolas, 'Fira Code', 'BIZ UDGothic', 'Noto Sans Mono CJK JP', monospace",
-    "terminal.integrated.letterSpacing": 1.2,
-    "terminal.integrated.lineHeight": 1.3
+    "terminal.integrated.fontFamily": "'DejaVu Sans Mono', 'Noto Sans Mono CJK JP', monospace",
+    "terminal.integrated.fontWeightBold": "normal",
+    "terminal.integrated.lineHeight": 1.2,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.scrollback": 10000,
+
+    // ===== Editor =====
+    "editor.fontSize": 13,
+    "editor.fontFamily": "'DejaVu Sans Mono', 'Noto Sans JP', monospace",
+    "editor.lineHeight": 1.5,
+    "editor.fontLigatures": true,
+
+    // ===== Window / Workbench =====
+    "window.zoomLevel": 1,
+    "window.restoreWindows": "all",
+    "workbench.tree.indent": 12,
+
+    // ===== Vim =====
+    "vim.useSystemClipboard": true
 }
